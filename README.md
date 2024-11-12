@@ -1,6 +1,6 @@
 # c-exercises
 
-Akmal's repository for exercisinig C programming language.
+Akmal's repository for exercising C programming language.
 
 Main problem reference:
 https://www.w3resource.com/c-programming-exercises/
