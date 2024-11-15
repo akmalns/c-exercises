@@ -54,3 +54,6 @@ dkms.conf
 
 # Akmal compiled file
 *.akm
+
+# Ignore VsCode settings
+.vscode
